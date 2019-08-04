@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Junit</string>
+    <string name="settings_title">Settings</string>
+    <string name="name_label">Your name</string>
+    <string name="name_hint">name</string>
+    <string name="dob_label">Your date of birth</string>
+    <string name="email_label">Your email</string>
+    <string name="email_hint">email</string>
+    <string name="save">save</string>
+    <string name="revert">revert</string>
+</resources>
